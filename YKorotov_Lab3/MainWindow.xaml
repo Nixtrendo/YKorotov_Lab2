@@ -38,7 +38,7 @@
                 </Style>
             </Label.Style>
         </Label>
-        <TextBox Name="LastName" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="188,125,14.4,217" Grid.ColumnSpan="2">
+        <TextBox Name="LastName" Text="{Binding LastName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="188,125,14.4,217" Grid.ColumnSpan="2">
             <TextBox.Style>
                 <Style>
                     <Setter Property="TextBox.FontSize" Value="20"/>
@@ -60,7 +60,7 @@
                 </Style>
             </TextBox.Style>
         </TextBox>
-        <DatePicker FirstDayOfWeek="Monday" Name="DateOfBirthday" SelectedDate="{Binding DateOfBirthday, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}" Margin="188,248,14.4,91" Grid.ColumnSpan="2">
+        <DatePicker FirstDayOfWeek="Monday" Name="DateOfBirthday" SelectedDate="{Binding DateOfBirthday, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}" Margin="188,270,14.4,108" Grid.ColumnSpan="2">
             <DatePicker.Style>
                 <Style>
                     <Setter Property="DatePicker.FontSize" Value="20"/>

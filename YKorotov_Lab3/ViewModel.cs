@@ -74,7 +74,6 @@ namespace YKorotov_Lab3
             await Task.Run((() =>
             {
             }));
-
             _signInAct.Invoke();
         }
         #region Implementation

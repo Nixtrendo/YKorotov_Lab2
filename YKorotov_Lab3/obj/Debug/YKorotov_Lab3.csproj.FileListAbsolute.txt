@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\bin\Debug\YKorotov_Lab3.exe.config
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\bin\Debug\YKorotov_Lab3.exe
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\bin\Debug\YKorotov_Lab3.pdb
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3_MarkupCompile.cache
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3_MarkupCompile.lref
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.g.resources
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.exe
+C:\Users\User\Desktop\Новая папка\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.pdb
+D:\Programming\C#\YKorotov_Lab3\bin\Debug\YKorotov_Lab3.exe.config
+D:\Programming\C#\YKorotov_Lab3\bin\Debug\YKorotov_Lab3.exe
+D:\Programming\C#\YKorotov_Lab3\bin\Debug\YKorotov_Lab3.pdb
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.csprojAssemblyReference.cache
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\MainWindow.g.cs
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\App.g.cs
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3_MarkupCompile.cache
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3_MarkupCompile.lref
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\MainWindow.baml
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.g.resources
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.Properties.Resources.resources
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.csproj.GenerateResource.cache
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.csproj.CoreCompileInputs.cache
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.exe
+D:\Programming\C#\YKorotov_Lab3\obj\Debug\YKorotov_Lab3.pdb

@@ -3,7 +3,7 @@ namespace YKorotov_Lab3
 {
     class EMailException : Exception
     {
-        private string _msg;
+        private readonly string _msg;
 
         public EMailException(string msg)
         {
